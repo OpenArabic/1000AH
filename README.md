@@ -1,10 +1,11 @@
-# 1000AH [[ [Re]generated on 2016-04-03 (19:29:22) ]]
+# 1000AH [[ [Re]generated on 2016-04-04 (20:19:55) ]]
 
 * `0902Sakhawi.DuLamic (TAGS: BIO,COL)`
 * `0902Sakhawi.TuhfaLatifa (TAGS: ...)`
 * `0904Burayhi.TabaqatSulahaYaman (TAGS: ...)`
 * `0911Suyuti.BughyaWucat (TAGS: BIO,COL)`
 * `0911Suyuti.HusnMuhadara (TAGS: ...)`
+* `0911Suyuti.LubbLubab (TAGS: ...)`
 * `0911Suyuti.NazmCiqyan (TAGS: ...)`
 * `0911Suyuti.TabaqatHuffaz (TAGS: BIO,COL)`
 * `0911Suyuti.TabaqatMufassirin (TAGS: ...)`
