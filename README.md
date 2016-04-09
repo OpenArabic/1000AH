@@ -1,10 +1,13 @@
-# 1000AH [[ [Re]generated on 2016-04-08 (18:20:49) ]]
+# 1000AH [[ [Re]generated on 2016-04-09 (16:54:56) ]]
 
 * `0902Sakhawi.DuLamic (TAGS: BIO,COL,PPE)`
+* `0902Sakhawi.ManhalCadhb (TAGS: ...,PPE)`
 * `0902Sakhawi.TuhfaLatifa (TAGS: ...,PPE)`
 * `0904Burayhi.TabaqatSulahaYaman (TAGS: ...,PPE)`
 * `0905Basrawi.Tarikh (TAGS: ...,PPE)`
 * `0909IbnMibradHanbali.MucjamKutub (TAGS: BIB,...,PPE)`
+* `0911Samhudi.KhulasaWafaWafa (TAGS: ...,PPE)`
+* `0911Samhudi.WafaWafa (TAGS: ...,PPE)`
 * `0911Suyuti.AsmaMukhadramin (TAGS: ...,PPE)`
 * `0911Suyuti.BughyaWucat (TAGS: BIO,COL,PPE)`
 * `0911Suyuti.DhaylTabaqatHuffaz (TAGS: ...,PPE)`
