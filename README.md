@@ -106,7 +106,7 @@
 
 
 
-# 1000AH [[ [Re]generated on 2016-10-14 (00:34:45) ]]
+# 1000AH [[ [Re]generated on 2016-10-16 (15:13:25) ]]
 
 * `0902Sakhawi.Buldaniyyat (TAGS: CENT1000, PPE, _AJZA, _HADITH, _MISC, _TARAJIM)`
 * `0902Sakhawi.DuLamic (TAGS: BIO, CENT1000, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
@@ -123,11 +123,13 @@
 * `0911Suyuti.AsmaMukhadramin (TAGS: CENT1000, PPE, _TARAJIM, _TARIKH)`
 * `0911Suyuti.BughyaWucat (TAGS: BIO, CENT1000, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0911Suyuti.DhaylTabaqatHuffaz (TAGS: CENT1000, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `0911Suyuti.GhurarFiFadailCumar (TAGS: CENT1000, PPE, _ASHAB, _SIRA, _TABAQAT, _TARAJIM)`
 * `0911Suyuti.HusnMuhadara (TAGS: CENT1000, PPE, _BULDAN, _TARIKH)`
 * `0911Suyuti.IscafMubatta (TAGS: CENT1000, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0911Suyuti.ItmamDiraya (TAGS: CENT1000, _ADILLA, _FAHARIS, _KUTUB)`
 * `0911Suyuti.LubbLubab (TAGS: CENT1000, PPE, _ANSAB, _TARAJIM, _TARIKH)`
 * `0911Suyuti.NazmCiqyan (TAGS: CENT1000, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
+* `0911Suyuti.RawdAniqFiFadlSiddiq (TAGS: CENT0900, CENT1000, _ASHAB, _CHRONOMULTIPLE, _SIRA, _TABAQAT, _TARAJIM)`
 * `0911Suyuti.RihNisrin (TAGS: CENT1000, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM)`
 * `0911Suyuti.Shamarikh (TAGS: CENT1000, _MISC, _TARIKH)`
 * `0911Suyuti.TabaqatHuffaz (TAGS: BIO, CENT1000, COL, PPE, _HADITH, _TABAQAT, _TARAJIM, _THIQAT)`
@@ -136,10 +138,12 @@
 * `0922IbnShaykhTarabulusi.IscafAwqaf (TAGS: CENT1000, PPE, _BUHUTH, _MASAIL)`
 * `0923AhmadQastallani.IrshadSari (TAGS: CENT1000, _HADITH, _SHARH)`
 * `0923IbnCabdAllahKhazraji.KhulasaTahdhib (TAGS: CENT1000, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
+* `0926ZakariyaAnsari.HududCaniqa (TAGS: CENT1000, _FAHARIS, _FIQH, _GHARIB, _MACAJIM, _MUSTALAHAT)`
 * `0927Culaymi.UnsJalil (TAGS: CENT1000, PPE, _BULDAN, _TARIKH)`
 * `0927Nucaymi.DarisFiMadaris (TAGS: CENT1000, COL, PPE, _MISC, _TARIKH)`
 * `0929IbnKayyal.KawakibNayyirat (TAGS: CENT1000, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
 * `0938IbnCaliBalawi.Thabat (TAGS: BIB, CENT1000, PPE, _ADILLA, _FAHARIS, _KUTUB)`
+* `0942IbnYusufShami.SubulHuda (TAGS: CENT1000, _ASHAB, _IMAM, _NABI, _SHAMAIL, _SIRA)`
 * `0945ShamsDinDawudi.TabaqatMufassirin (TAGS: CENT1000, PPE, _TABAQAT, _TARAJIM)`
 * `0953IbnTulun.MufakahaKhillan (TAGS: CENT1000, PPE, _BULDAN, _TARIKH)`
 * `0966HusaynDiyarbakri.TarikhKhamis (TAGS: CENT1000, _SHAMAIL, _SIRA)`
