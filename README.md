@@ -1,14 +1,14 @@
 ## Status Report
  
-* 87 titles
-* 54,500,407 words
-* 275,122 logical units
+* 90 titles
+* 57,561,691 words
+* 277,944 logical units
 * 56,798 bios
 
-### `*.inProgress` (25 titles: 19,094,448 words; 83,848 units; 0 bios)
+### `*.inProgress` (26 titles: 22,088,362 words; 83,793 units; 0 bios)
 
 - `0230IbnSacd.TabaqatKubra (920,980 words; 6,386 units; 0 bios)`
-- `0255Jahiz.Hayawan (456,481 words; 3,241 units; 0 bios)`
+- `0255Jahiz.Hayawan (456,584 words; 3,186 units; 0 bios)`
 - `0256Bukhari.TarikhKabir (519,629 words; 15,061 units; 0 bios)`
 - `0276IbnQutaybaDinawari.CuyunAkhbar (232,763 words; 310 units; 0 bios)`
 - `0282AbuHanifaDinawari.AkhbarTiwal  (93,184 words; 858 units; 0 bios)`
@@ -27,6 +27,7 @@
 - `0421Miskawayh.Tajarib (679,938 words; 2,490 units; 0 bios)`
 - `0421Miskawayh.Tajarib (244,209 words; 764 units; 0 bios)`
 - `0646IbnQifti.IkhbarCulama (96,909 words; 85 units; 0 bios)`
+- `0728IbnTaymiyya.MajmucFatawa (2,993,811 words; 0 units; 0 bios)`
 - `0742Mizzi.TahdhibKamal (2,683,671 words; 12,446 units; 0 bios)`
 - `0764Safadi.AcyanCasr (604,056 words; 2,408 units; 0 bios)`
 - `0764Safadi.WafiBiWafayat (1,968,791 words; 11,211 units; 0 bios)`
@@ -34,7 +35,7 @@
 - `0902Sakhawi.DuLamic (1,335,442 words; 14,452 units; 0 bios)`
 
 
-### `*.completed` (42 titles: 26,381,135 words; 109,678 units; 1 bios)
+### `*.completed` (44 titles: 26,448,505 words; 112,555 units; 1 bios)
 
 - `0292Yacqubi.TarikhYacqubi (192,205 words; 139 units; 0 bios)`
 - `0379MuhammadRabci.TarikhMawlidCulama (35,125 words; 338 units; 0 bios)`
@@ -74,6 +75,8 @@
 - `0748Dhahabi.DhaylDiwanDucafa (12,664 words; 603 units; 0 bios)`
 - `0748Dhahabi.DhikrAsmaManTakallama (9,038 words; 403 units; 0 bios)`
 - `0748Dhahabi.DiwanDucafa (105,267 words; 6,009 units; 0 bios)`
+- `0748Dhahabi.MucinFiTabaqatMuhaddithin (23,129 words; 2,455 units; 0 bios)`
+- `0748Dhahabi.MucjamMuhaddithin (44,241 words; 422 units; 0 bios)`
 - `0748Dhahabi.MukhtasarMinDubaythi (96,058 words; 1,641 units; 0 bios)`
 - `0852IbnHajarCasqalani.TahdhibTahdhib (1,316,187 words; 13,415 units; 0 bios)`
 - `0874IbnTaghribirdi.NujumZahira (1,129,443 words; 1,113 units; 0 bios)`
@@ -106,7 +109,7 @@
 
 
 
-# 1000AH [[ [Re]generated on 2016-10-19 (14:30:34) ]]
+# 1000AH [[ [Re]generated on 2016-10-22 (17:14:35) ]]
 
 * `0902Sakhawi.Buldaniyyat (TAGS: CENT1000, PPE, _AJZA, _HADITH, _MISC, _TARAJIM)`
 * `0902Sakhawi.DuLamic (TAGS: BIO, CENT1000, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
@@ -119,23 +122,53 @@
 * `0909IbnMibradHanbali.MucjamKutub (TAGS: BIB, CENT1000, PPE, _ADILLA, _FAHARIS, _KUTUB)`
 * `0911Samhudi.KhulasaWafaWafa (TAGS: CENT1000, PPE, _TARIKH)`
 * `0911Samhudi.WafaWafa (TAGS: CENT1000, PPE, _ASHAB, _BULDAN, _JUGHRAFIYA, _RIHLAT, _SIRA)`
+* `0911Suyuti.Ashbah (TAGS: CENT1000, _FIQH, _MASAIL, _QAWACID, _USUL, _USULIYYA)`
 * `0911Suyuti.AsmaMudallisin (TAGS: CENT1000, PPE, _HADITH, _MUSTALAHAT, _TABAQAT, _TARAJIM)`
 * `0911Suyuti.AsmaMukhadramin (TAGS: CENT1000, PPE, _TARAJIM, _TARIKH)`
+* `0911Suyuti.BastKaff (TAGS: CENT1000, _BUHUTH, _FIQH, _MASAIL, _USUL)`
 * `0911Suyuti.BughyaWucat (TAGS: BIO, CENT1000, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
+* `0911Suyuti.DafcTashnic (TAGS: CENT1000, _BUHUTH, _FIQH, _MASAIL, _USUL)`
 * `0911Suyuti.DhaylTabaqatHuffaz (TAGS: CENT1000, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `0911Suyuti.DibajCalaMuslim (TAGS: CENT1000, _FIQH, _HADITH, _SHARH, _SUNNI, _TARAJIM)`
+* `0911Suyuti.DurrManthur (TAGS: CENT1000, _CULUM, _HADITH, _QURAN, _SUNNI, _TAFSIR)`
+* `0911Suyuti.FaddWica (TAGS: CENT1000, _BUHUTH, _FIQH, _MASAIL, _USUL)`
 * `0911Suyuti.GhurarFiFadailCumar (TAGS: CENT1000, PPE, _ASHAB, _SIRA, _TABAQAT, _TARAJIM)`
 * `0911Suyuti.HawiLiFatawa (TAGS: CENT1000, _FATAWA, _FIQH, _SHAFICI)`
 * `0911Suyuti.HusnMuhadara (TAGS: CENT1000, PPE, _BULDAN, _TARIKH)`
 * `0911Suyuti.IscafMubatta (TAGS: CENT1000, PPE, _HADITH, _TABAQAT, _TARAJIM)`
 * `0911Suyuti.ItmamDiraya (TAGS: CENT1000, _ADILLA, _FAHARIS, _KUTUB)`
+* `0911Suyuti.Itqan (TAGS: CENT1000, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
+* `0911Suyuti.KhasaisKubra (TAGS: CENT1000, _ASHAB, _SHAMAIL, _SIRA)`
+* `0911Suyuti.LaaliMasnuca (TAGS: CENT1000, _CILAL, _DACIF, _HADITH, _MAWDUC, _SUALAT)`
+* `0911Suyuti.LubabNuqul (TAGS: CENT1000, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
 * `0911Suyuti.LubbLubab (TAGS: CENT1000, PPE, _ANSAB, _TARAJIM, _TARIKH)`
+* `0911Suyuti.LumacFiAsbabHadith (TAGS: CENT1000, _HADITH, _MISC, _MUSTALAHAT, _SHARH)`
+* `0911Suyuti.LumcaFiKhasaisJumca (TAGS: CENT1000, _BUHUTH, _FIQH, _MASAIL, _USUL)`
+* `0911Suyuti.ManahilSafa (TAGS: CENT1000, _HADITH, _TAKHRIJ)`
+* `0911Suyuti.MiftahJanna (TAGS: CENT1000, _CULUM, _FIQH, _HADITH, _MASAIL, _MUSTALAHAT, _USUL)`
+* `0911Suyuti.Muhadarat (TAGS: CENT1000, _ADAB, _BALAGHA)`
+* `0911Suyuti.MuzhirFiCulumLugha (TAGS: CENT1000, _ADAB, _LUGHA, _MISC, _QISAS, _TARAIF)`
+* `0911Suyuti.NawahidAbkar (TAGS: CENT1000, _TAFSIR)`
 * `0911Suyuti.NazmCiqyan (TAGS: CENT1000, PPE, _TABAQAT, _TARAJIM, _TARIKH)`
+* `0911Suyuti.NuzhatJulasa (TAGS: CENT1000, _ADAB, _ADAB, _BALAGHA, _SHICR)`
+* `0911Suyuti.QutMughtadhi (TAGS: CENT1000, _HADITH, _SHARH)`
 * `0911Suyuti.RawdAniqFiFadlSiddiq (TAGS: CENT0900, CENT1000, _ASHAB, _CHRONOMULTIPLE, _SIRA, _TABAQAT, _TARAJIM)`
 * `0911Suyuti.RihNisrin (TAGS: CENT1000, PPE, _HADITH, _MISC, _TABAQAT, _TARAJIM)`
+* `0911Suyuti.SababWadc (TAGS: CENT1000, _MISC, _NAHW, _SARF)`
+* `0911Suyuti.ShamailSharifa (TAGS: CENT1000, _ASHAB, _SHAMAIL, _SIRA)`
 * `0911Suyuti.Shamarikh (TAGS: CENT1000, _MISC, _TARIKH)`
+* `0911Suyuti.SharhSudur (TAGS: CENT1000, _CAQAID, _MILAL)`
+* `0911Suyuti.SharhSunanIbnMaja (TAGS: CENT1000, _HADITH, _SHARH, _TARAJIM)`
 * `0911Suyuti.TabaqatHuffaz (TAGS: BIO, CENT1000, COL, PPE, _HADITH, _TABAQAT, _TARAJIM, _THIQAT)`
 * `0911Suyuti.TabaqatMufassirin (TAGS: CENT1000, PPE, _MUFASSIRUN, _TABAQAT, _TARAJIM, _TARIKH)`
+* `0911Suyuti.TadhkiratMutasi (TAGS: CENT1000, _CULUM, _HADITH, _MUSTALAHAT)`
+* `0911Suyuti.TadribRawi (TAGS: CENT1000, _CULUM, _HADITH, _MUSTALAHAT)`
+* `0911Suyuti.TafsirJalalayn (TAGS: CENT0900, CENT1000, _CHRONOMULTIPLE, _CULUM, _QURAN, _SUNNI, _TAFSIR)`
+* `0911Suyuti.TahdhirKhawass (TAGS: CENT1000, _CILAL, _DACIF, _HADITH, _MAWDUC, _SUALAT)`
+* `0911Suyuti.TakrirIstinad (TAGS: CENT1000, _FIQH, _MASAIL, _QAWACID, _USUL, _USULIYYA)`
+* `0911Suyuti.TanwirHawalik (TAGS: CENT1000, _HADITH, _SHARH, _TARAJIM)`
 * `0911Suyuti.TarikhKhulafa (TAGS: CENT1000, PPE, _BULDAN, _TARAJIM, _TARIKH)`
+* `0911Suyuti.Tatrif (TAGS: CENT1000, _CULUM, _HADITH, _MISC, _MUSTALAHAT)`
 * `0922IbnShaykhTarabulusi.IscafAwqaf (TAGS: CENT1000, PPE, _BUHUTH, _MASAIL)`
 * `0923AhmadQastallani.IrshadSari (TAGS: CENT1000, _HADITH, _SHARH)`
 * `0923IbnCabdAllahKhazraji.KhulasaTahdhib (TAGS: CENT1000, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
