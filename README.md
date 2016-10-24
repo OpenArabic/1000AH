@@ -110,12 +110,23 @@
 
 
 
-# 1000AH [[ [Re]generated on 2016-10-23 (13:19:17) ]]
+# 1000AH [[ [Re]generated on 2016-10-24 (20:10:57) ]]
 
 * `0902Sakhawi.Buldaniyyat (TAGS: CENT1000, PPE, _AJZA, _HADITH, _MISC, _TARAJIM)`
 * `0902Sakhawi.DuLamic (TAGS: BIO, CENT1000, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
+* `0902Sakhawi.FakhrMutawali (TAGS: CENT1000, _ASHAB, _SHAMAIL, _SIRA)`
 * `0902Sakhawi.FathMughith (TAGS: CENT1000, _CULUM, _HADITH, _MUSTALAHAT)`
+* `0902Sakhawi.GhayaFiSharh (TAGS: CENT1000, _CULUM, _HADITH, _MUSTALAHAT)`
+* `0902Sakhawi.HidayatMurtab (TAGS: CENT0700, _CULUM, _QURAN)`
+* `0902Sakhawi.IltimasSacd (TAGS: CENT1000, _ADAB, _ADHKAR, _RAQAIQ)`
+* `0902Sakhawi.JamalQurra (TAGS: CENT0700, _CULUM, _QURAN)`
 * `0902Sakhawi.ManhalCadhb (TAGS: CENT1000, PPE, _HADITH, _MUSTALAHAT, _TABAQAT, _TARAJIM)`
+* `0902Sakhawi.MaqasidHasana (TAGS: CENT1000, _DACIF, _HADITH, _MAWDUC, _TAKHRIJ)`
+* `0902Sakhawi.MutakallimunFiRijal (TAGS: CENT1000, _CULUM, _HADITH)`
+* `0902Sakhawi.QawlBadic (TAGS: CENT1000, _BUHUTH, _MASAIL)`
+* `0902Sakhawi.SirrMaktum (TAGS: CENT1000, _BUHUTH, _MASAIL)`
+* `0902Sakhawi.TawdihAbhar (TAGS: CENT1000, _CULUM, _HADITH)`
+* `0902Sakhawi.TawdihAbhar (TAGS: CENT1000, _HADITH, _MUSTALAHAT)`
 * `0902Sakhawi.TuhfaLatifa (TAGS: CENT1000, PPE, _BULDAN, _TABAQAT, _TARAJIM, _TARIKH)`
 * `0904Burayhi.TabaqatSulahaYaman (TAGS: CENT1000, PPE, _BULDAN, _TARIKH)`
 * `0905Basrawi.Tarikh (TAGS: CENT1000, PPE, _BULDAN, _TARIKH)`
