@@ -138,7 +138,7 @@
 
 
 
-# 1000AH [[ [Re]generated on 2016-12-10 (14:09:52) ]]
+# 1000AH [[ [Re]generated on 2016-12-10 (20:36:52) ]]
 
 * `0902Sakhawi.Buldaniyyat (TAGS: CENT1000, PPE, _AJZA, _HADITH, _MISC, _TARAJIM)`
 * `0902Sakhawi.DuLamic (TAGS: BIO, CENT1000, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
@@ -287,6 +287,10 @@
 * `0973ShihabDinHaythami.MablaghArab (TAGS: CENT1000, _BUHUTH, _HADITH, _MASAIL, _TARAJIM)`
 * `0973ShihabDinHaythami.MinhajQawim (TAGS: CENT1000, _FIQH, _SHAFICI)`
 * `0975CalaDinHindi.KanzCummal (TAGS: CENT1000, _HADITH, _MAJMUCAT, _SUNNI, _TAKHRIJ, _TARAJIM)`
+* `0977KhatibShirbini.Iqnac (TAGS: CENT1000, _FIQH, _SHAFICI)`
+* `0977KhatibShirbini.KhisalMukaffira (TAGS: CENT1000, _BUHUTH, _MASAIL)`
+* `0977KhatibShirbini.MughniMuhtaj (TAGS: CENT1000, _FIQH, _SHAFICI)`
+* `0977KhatibShirbini.SirajMunir (TAGS: CENT1000, _TAFSIR)`
 * `0978QasimQunawi.AnisFuqaha (TAGS: CENT1000, _FIQH, _GHARIB, _LUGHA, _MACAJIM, _MUSTALAHAT)`
 * `0984BardDinGhazzi.MatalicBadriya (TAGS: CENT1000, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
 
