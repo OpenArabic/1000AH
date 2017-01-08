@@ -140,7 +140,7 @@
 
 
 
-# 1000AH [[ [Re]generated on 2017-01-04 (16:16:12) ]]
+# 1000AH [[ [Re]generated on 2017-01-08 (17:58:22) ]]
 
 * `0902Sakhawi.Buldaniyyat (TAGS: CENT1000, PPE, _AJZA, _HADITH, _MISC, _TARAJIM)`
 * `0902Sakhawi.DuLamic (TAGS: BIO, CENT1000, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
@@ -276,15 +276,19 @@
 * `0923AhmadQastallani.IrshadSari (TAGS: CENT1000, _HADITH, _SHARH)`
 * `0923AhmadQastallani.MawahibLaduniyya (TAGS: CENT1000, _SHAMAIL, _SIRA)`
 * `0923IbnCabdAllahKhazraji.KhulasaTahdhib (TAGS: CENT1000, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
+* `0926ZakariyaAnsari.AsnaMatalib (TAGS: CENT1000, _FIQH, _SHAFICI)`
+* `0926ZakariyaAnsari.AsnaMatalib (TAGS: CENT1000, _FIQH, _SHAFICI)`
+* `0926ZakariyaAnsari.FathBaqi (TAGS: CENT1000, _CULUM, _HADITH)`
 * `0926ZakariyaAnsari.FathRahman (TAGS: CENT1000, _CULUM, _QURAN)`
 * `0926ZakariyaAnsari.FathWahhab (TAGS: CENT1000, _FIQH, _SHAFICI)`
 * `0926ZakariyaAnsari.GhayatWusul (TAGS: CENT1000, _FIQH, _QAWACID, _USUL)`
 * `0926ZakariyaAnsari.GhurarBahiyya (TAGS: CENT1000, _FIQH, _SHAFICI)`
-* `0926ZakariyaAnsari.HududCaniqa (TAGS: CENT1000, _FAHARIS, _FIQH, _GHARIB, _MACAJIM, _MUSTALAHAT)`
+* `0926ZakariyaAnsari.HududAniqa (TAGS: CENT1000, _FAHARIS, _FIQH, _GHARIB, _MACAJIM, _MUSTALAHAT)`
 * `0926ZakariyaAnsari.IcrabQuran (TAGS: CENT1000, _CULUM, _QURAN)`
 * `0926ZakariyaAnsari.ManhajTullab (TAGS: CENT1000, _FIQH, _SHAFICI)`
 * `0926ZakariyaAnsari.MaqsadLiTalkhis (TAGS: CENT1000, _CULUM, _QURAN, _TAFSIR)`
 * `0926ZakariyaAnsari.Munfarijatan (TAGS: CENT1000, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
+* `0926ZakariyaAnsari.Munfarijatan (TAGS: CENT1000, _AKHLAQ, _MISC, _SULUK)`
 * `0927Culaymi.UnsJalil (TAGS: CENT1000, PPE, _BULDAN, _TARIKH)`
 * `0927Nucaymi.DarisFiMadaris (TAGS: CENT1000, COL, PPE, _MISC, _TARIKH)`
 * `0929IbnKayyal.KawakibNayyirat (TAGS: CENT1000, PPE, _HADITH, _SUNNI, _TABAQAT, _TARAJIM)`
@@ -302,7 +306,7 @@
 * `0973IbnHajarHaythami.IfsahCanHadithNikah (TAGS: CENT1000, _BUHUTH, _FIQH, _MASAIL, _USUL)`
 * `0973IbnHajarHaythami.Inafa (TAGS: CENT1000, _BUHUTH, _HADITH, _MASAIL, _TARAJIM)`
 * `0973IbnHajarHaythami.SawaciqMuhriqa (TAGS: CENT1000, _CAQAID, _MILAL, _RUDUD)`
-* `0973IbnHajarHaythami.TuhfatMuhtaj (TAGS: _CENT00NO, _FIQH, _SHAFICI)`
+* `0973IbnHajarHaythami.TuhfatMuhtaj (TAGS: _FIQH, _SHAFICI)`
 * `0973IbnHajarHaythami.Zawajir (TAGS: CENT1000, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
 * `0973ShihabDinHaythami.KaffRicac (TAGS: CENT1000, _BUHUTH, _MASAIL)`
 * `0973ShihabDinHaythami.MablaghArab (TAGS: CENT1000, _BUHUTH, _HADITH, _MASAIL, _TARAJIM)`
