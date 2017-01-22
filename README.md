@@ -77,8 +77,8 @@
 - `0466CabdAzizKattani.DhaylTarikhMawlidCulama (18,115 words; 463 units; 0 bios)`
 - `0476AbuIshaqShirazi.TabaqatFuqaha (30,392 words; 508 units; 0 bios)`
 - `0482AbuIshaqHabbal.WafayatMisriyyin (6,616 words; 497 units; 0 bios)`
-- `0521IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama (4,082 words; 84 units; 0 bios)`
+- `0526IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0544CiyadIbnMusaYahsubi.TartibMadarik (320,968 words; 1,177 units; 0 bios)`
 - `0555IbnQalanisi.Tarikh (120,986 words; 157 units; 0 bios)`
 - `0565IbnZaydBayhaqi.TarikhBayhaq (121,031 words; 299 units; 0 bios)`
@@ -140,7 +140,7 @@
 
 
 
-# 1000AH [[ [Re]generated on 2017-01-08 (17:58:22) ]]
+# 1000AH [[ [Re]generated on 2017-01-22 (16:18:08) ]]
 
 * `0902Sakhawi.Buldaniyyat (TAGS: CENT1000, PPE, _AJZA, _HADITH, _MISC, _TARAJIM)`
 * `0902Sakhawi.DuLamic (TAGS: BIO, CENT1000, COL, PPE, _TABAQAT, _TARAJIM, _TARIKH, _WAFAYAT)`
@@ -311,13 +311,30 @@
 * `0973ShihabDinHaythami.KaffRicac (TAGS: CENT1000, _BUHUTH, _MASAIL)`
 * `0973ShihabDinHaythami.MablaghArab (TAGS: CENT1000, _BUHUTH, _HADITH, _MASAIL, _TARAJIM)`
 * `0973ShihabDinHaythami.MinhajQawim (TAGS: CENT1000, _FIQH, _SHAFICI)`
+* `0973ShihabDinHaythami.MinhajQawim (TAGS: CENT1000, _FIQH, _SHAFICI)`
 * `0975CalaDinHindi.KanzCummal (TAGS: CENT1000, _HADITH, _MAJMUCAT, _SUNNI, _TAKHRIJ, _TARAJIM)`
 * `0977KhatibShirbini.Iqnac (TAGS: CENT1000, _FIQH, _SHAFICI)`
 * `0977KhatibShirbini.KhisalMukaffira (TAGS: CENT1000, _BUHUTH, _MASAIL)`
 * `0977KhatibShirbini.MughniMuhtaj (TAGS: CENT1000, _FIQH, _SHAFICI)`
 * `0977KhatibShirbini.SirajMunir (TAGS: CENT1000, _TAFSIR)`
 * `0978QasimQunawi.AnisFuqaha (TAGS: CENT1000, _FIQH, _GHARIB, _LUGHA, _MACAJIM, _MUSTALAHAT)`
+* `0979IbnTurkiMaliki.KhulasatJawahirZakiyya (TAGS: CENT1000, _FIQH, _MALIKI)`
+* `0981TaqiDinRumi.RisalatInqadhHalikin (TAGS: CENT1000, _BUHUTH, _MASAIL)`
+* `0984BardDinGhazzi.AdabCishra (TAGS: CENT1000, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
+* `0984BardDinGhazzi.AdabMuwakala (TAGS: CENT1000, _ADAB, _ADHKAR, _AKHLAQ, _MISC, _RAQAIQ, _SULUK)`
 * `0984BardDinGhazzi.MatalicBadriya (TAGS: CENT1000, _BULDAN, _JUGHRAFIYA, _RIHLAT)`
+* `0984BardDinGhazzi.MurahFiMuzah (TAGS: CENT1000, _ADAB, _BUHUTH, _MASAIL, _QISAS, _TARAIF)`
+* `0986IbnCaliFattani.TadhkiratMawducat (TAGS: CENT1000, _CILAL, _HADITH, _SUALAT, _SUNNI)`
+* `0987ZaynDinMalibari.IsticdadLiMawt (TAGS: CENT1000, _ADAB, _ADHKAR, _AKHLAQ, _RAQAIQ)`
+* `0989SharafDinCimriti.DurraBahiyya (TAGS: _NAHW, _SARF)`
+* `0992IbnBaliQustantini.KhayrKalam (TAGS: CENT1000, _ADAB, _LUGHA, _MUSTALAHAT, _NAHW, _SARF)`
+* `0992IbnBaliQustantini.KhayrKalam (TAGS: CENT1000, _FIQH, _GHARIB, _MACAJIM, _MUSTALAHAT)`
+* `0992IbnQasimMisri.RisalaFiIsmFacil (TAGS: CENT1000, _MISC, _NAHW, _SARF)`
+* `0993IbnFalahShaybani.RisalaFiKharaj (TAGS: CENT1000, _AFTER800, _FIQH, _SHICI)`
+* `0993MuhaqqiqArdabili.MajmacFaida (TAGS: CENT1000, _AFTER800, _FIQH, _SHICI)`
+* `0993MuhaqqiqArdabili.RisalatanFiKharaj (TAGS: CENT1000, _AFTER800, _FIQH, _SHICI)`
+* `0993MuhaqqiqArdabili.ZubdatBayan (TAGS: CENT1000, _AFTER800, _FIQH, _SHICI)`
+* `1000IbnAhmadQahiri.MatnCashmawiyya (TAGS: _FIQH, _MALIKI)`
 
 
 ## General description of the workflow with mARkdown
